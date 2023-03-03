@@ -1,7 +1,7 @@
 # more-links
-#What am I doing with my life?
+What am I doing with my life?
 # Table of Contents.
-#This is the grand fanaly of games!!! (there is over 500 different games)
+# This is the grand fanaly of games!!! (there is over 500 different games)
 
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
